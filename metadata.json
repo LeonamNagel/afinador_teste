@@ -1,0 +1,7 @@
+{
+  "name": "Afinador Celular",
+  "description": "Um aplicativo web que detecta a frequência da sua voz em tempo real e exibe a nota musical correspondente, ajudando você a afinar sua voz com um feedback visual preciso.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
